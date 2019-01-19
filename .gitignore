@@ -1,0 +1,19 @@
+## MAC files ##
+.DS_Store
+
+## NPM ##
+npm
+npm-debug.log
+node_modules/
+package-lock.json
+
+pids
+*.pid
+logs
+*.log
+
+# New Relic
+newrelic /
+newrelic.js
+newrelic_agent.log
+

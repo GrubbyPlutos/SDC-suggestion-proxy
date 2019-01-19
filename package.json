@@ -1,5 +1,5 @@
 {
-  "name": "jhods16-proxy",
+  "name": "SDC-suggestion-proxy",
   "version": "1.0.0",
   "description": "> Project description",
   "main": "index.js",
@@ -9,18 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ChampsOfTheSun/jhods16-proxy.git"
+    "url": "git+https://github.com/GrubbyPlutos/SDC-suggestion-proxy.git"
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ChampsOfTheSun/jhods16-proxy/issues"
-  },
-  "homepage": "https://github.com/ChampsOfTheSun/jhods16-proxy#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
     "cors": "^2.8.5",
     "express": "^4.16.4",
+    "newrelic": "^5.1.0",
     "react": "^16.7.0",
     "react-dom": "^16.7.0"
   }
